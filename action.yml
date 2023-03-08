@@ -1,4 +1,5 @@
 name: 'codeql-csv'
+icon: 'code'
 description: 'Get code scanning result to csv'
 inputs: 
   github_token:
