@@ -10,7 +10,7 @@ This is simple GitHub Action which gets GitHub Advanced Security - Code Scanning
 Usage:
 
  ``` 
-  - uses : CVEDB/codeql-csv@master
+  - uses : CVEDB/codeql-csv@main
     with :
       github_token: ${{ secrets.GITHUB_TOKEN }}
 
