@@ -1,6 +1,6 @@
 name: 'codeql-csv'
-icon: 'code'
 description: 'Get code scanning result to csv'
+author: "CVEDB"
 inputs: 
   github_token:
     description: 'The GitHub_Token secret'
